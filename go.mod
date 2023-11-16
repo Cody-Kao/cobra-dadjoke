@@ -1,4 +1,4 @@
-module github.com/Cody-Kao/cobra-dadjoke
+module github.com/Cody-Kao/dadjoke
 
 go 1.21.1
 

@@ -1,4 +1,6 @@
 module github.com/Cody-Kao/dadjoke
+// 以後在cmd就直接呼叫dadjoke就能啟用這個default root command，後面加上其他command名稱就是呼叫他們，例如:joke
+// 而dadjoke的由來就是github上的repo name，即:github.com/Cody-Kao/dadjoke
 
 go 1.21.1
 
